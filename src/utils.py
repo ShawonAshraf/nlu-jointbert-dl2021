@@ -10,7 +10,7 @@ def get_time_stamp():
     return ts
 
 
-# gets slot name from it's values
+# gets slot name from its values
 def get_slot_from_word(word, slot_dict):
     for slot_label, value in slot_dict.items():
         if word in value.split():

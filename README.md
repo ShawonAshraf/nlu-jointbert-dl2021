@@ -1,6 +1,8 @@
 # Project Winter 2020-2021
 Repository for the course project of Deep Learning for Speech and Natural Language Processing at Universität Stuttgart.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShawonAshraf/nlu-jointbert-dl2021/blob/main/notebooks/nlu_jointbert_dl21.ipynb)
+
 
 ## Task
 Natural Language Understanding
@@ -54,8 +56,6 @@ python main.py <gpu_id>
 # use gpu_id from nvidia-smi for multi-gpu systems
 # for single gpu, leave blank or use 0
 ```
-
-There's also a notebook in the `notebooks` directory to run in collab.
 
 ## Reference
 1. Chen et al. (2019), BERT for Joint Intent Classification and Slot Filling.
