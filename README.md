@@ -1,8 +1,6 @@
 # Project Winter 2020-2021
 Repository for the course project of Deep Learning for Speech and Natural Language Processing at Universität Stuttgart.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1pJBIVxXuSn1hbwXEdQ9-kiR_fx1BV3o8/view?usp=sharing]
-
 
 ## Task
 Natural Language Understanding
