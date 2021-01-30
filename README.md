@@ -1,5 +1,5 @@
-# Project Winter 2020-2021
-Repository for the course project of Deep Learning for Speech and Natural Language Processing at Universität Stuttgart.
+# nlu-jointbert-dl2021
+Repository for the course project of Deep Learning for Speech and Natural Language Processing at Universität Stuttgart. Winter 2020-2021.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShawonAshraf/nlu-jointbert-dl2021/blob/main/notebooks/nlu_jointbert_dl21.ipynb)
 
