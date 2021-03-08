@@ -10,7 +10,7 @@ from nlu import run_inference
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument("gpu_id", help="select the gpu id, leave blank for default operation")
+parser.add_argument("gpu_id", help="select the gpu id or enter 0 for default operation")
 args = parser.parse_args()
 
 gpu_id = args.gpu_id
