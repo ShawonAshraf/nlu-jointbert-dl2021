@@ -54,7 +54,7 @@ add kansas city, missouri to Stress Relief
 ```bash
 python main.py <gpu_id>
 # use gpu_id from nvidia-smi for multi-gpu systems
-# for single gpu, leave blank or use 0
+# for single gpu, use 0
 ```
 
 ## Reference
